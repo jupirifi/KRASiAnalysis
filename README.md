@@ -9,6 +9,8 @@ This repository contains Jupyter Notebooks for performing a pipeline of single-c
 3.  **`run_scvi_KPTracer_KRASi.ipynb`**: A specialized notebook focused on the integration of the previous KP-Tracer data with the new KrasI dataset.
 
 
+*For some reason, some of the notebooks are not displaying on GitHub; they do, however, display if you open them with github.dev under the arrow in the upper right corner. 
+
 ## Critical Next Steps
 
 1. Removal of CD45+ cells and re-running the analysis on both the general and integrated datasets. 

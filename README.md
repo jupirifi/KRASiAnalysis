@@ -4,8 +4,10 @@ This repository contains Jupyter Notebooks for performing a pipeline of single-c
 
 ## Notebooks Overview
 
-1.  **`run_scvi.ipynb`**: A general-purpose implementation of the pipeline on the KrasI dataset. 
-2.  **`run_scvi_KPTracer_KRASi.ipynb`**: A specialized notebook focused on the integration of the previous KP-Tracer data with the new KrasI dataset. 
+1.  **`run_KRASi_scvi.ipynb`**: A general-purpose implementation of the pipeline on the KrasI dataset.
+2. **`lineage_tracing_KRASi.ipynb`**: A general-purpose implementation of the cassiopeia pipeline on the KrasI dataset. 
+3.  **`run_scvi_KPTracer_KRASi.ipynb`**: A specialized notebook focused on the integration of the previous KP-Tracer data with the new KrasI dataset.
+
 
 ## Critical Next Steps
 
